@@ -1,6 +1,6 @@
 # Curriculum-based benchmark for early-stage evaluation of language models (E2LM Competition, NeurIPS 2025)
 
-## SmolLM2-1.7B 模型评估项目（后续随时换成任何模型）
+## SmolLM2-1.7B 模型评估项目（dense500m_evaluation是新加的，里面也有Readme）
 
 > **一句话总结**: 使用 lm-evaluation-harness 评估 SmolLM2-1.7B 模型在 8 个标准基准测试上的性能
 
