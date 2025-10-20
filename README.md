@@ -1,4 +1,4 @@
-# NeurIPS-2025-E2LM-Competition-Early-Training-Evaluation-of-Language-Models-our-solution
+# Curriculum-based benchmark for early-stage evaluation of language models (E2LM Competition, NeurIPS 2025)
 
 ## SmolLM2-1.7B 模型评估项目（后续随时换成任何模型）
 
